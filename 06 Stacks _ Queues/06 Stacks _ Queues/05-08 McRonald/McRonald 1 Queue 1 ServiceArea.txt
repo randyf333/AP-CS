@@ -1,0 +1,2101 @@
+0: []
+1: []
+2: [2]
+	2 is now being served for 7 minutes.
+3: [2]
+	2 is now being served for 6 minutes.
+4: [2]
+	2 is now being served for 5 minutes.
+5: [2]
+	2 is now being served for 4 minutes.
+6: [2]
+	2 is now being served for 3 minutes.
+7: [2, 7]
+	2 is now being served for 2 minutes.
+8: [2, 7]
+	2 is now being served for 1 minutes.
+9: [7]
+	7 is now being served for 7 minutes.
+10: [7]
+	7 is now being served for 6 minutes.
+11: [7]
+	7 is now being served for 5 minutes.
+12: [7]
+	7 is now being served for 4 minutes.
+13: [7]
+	7 is now being served for 3 minutes.
+14: [7, 14]
+	7 is now being served for 2 minutes.
+15: [7, 14, 15]
+	7 is now being served for 1 minutes.
+16: [14, 15]
+	14 is now being served for 4 minutes.
+17: [14, 15, 17]
+	14 is now being served for 3 minutes.
+18: [14, 15, 17]
+	14 is now being served for 2 minutes.
+19: [14, 15, 17]
+	14 is now being served for 1 minutes.
+20: [15, 17]
+	15 is now being served for 6 minutes.
+21: [15, 17]
+	15 is now being served for 5 minutes.
+22: [15, 17]
+	15 is now being served for 4 minutes.
+23: [15, 17, 23]
+	15 is now being served for 3 minutes.
+24: [15, 17, 23]
+	15 is now being served for 2 minutes.
+25: [15, 17, 23, 25]
+	15 is now being served for 1 minutes.
+26: [17, 23, 25, 26]
+	17 is now being served for 3 minutes.
+27: [17, 23, 25, 26, 27]
+	17 is now being served for 2 minutes.
+28: [17, 23, 25, 26, 27]
+	17 is now being served for 1 minutes.
+29: [23, 25, 26, 27, 29]
+	23 is now being served for 5 minutes.
+30: [23, 25, 26, 27, 29, 30]
+	23 is now being served for 4 minutes.
+31: [23, 25, 26, 27, 29, 30, 31]
+	23 is now being served for 3 minutes.
+32: [23, 25, 26, 27, 29, 30, 31]
+	23 is now being served for 2 minutes.
+33: [23, 25, 26, 27, 29, 30, 31, 33]
+	23 is now being served for 1 minutes.
+34: [25, 26, 27, 29, 30, 31, 33]
+	25 is now being served for 2 minutes.
+35: [25, 26, 27, 29, 30, 31, 33]
+	25 is now being served for 1 minutes.
+36: [26, 27, 29, 30, 31, 33, 36]
+	26 is now being served for 4 minutes.
+37: [26, 27, 29, 30, 31, 33, 36]
+	26 is now being served for 3 minutes.
+38: [26, 27, 29, 30, 31, 33, 36, 38]
+	26 is now being served for 2 minutes.
+39: [26, 27, 29, 30, 31, 33, 36, 38, 39]
+	26 is now being served for 1 minutes.
+40: [27, 29, 30, 31, 33, 36, 38, 39]
+	27 is now being served for 6 minutes.
+41: [27, 29, 30, 31, 33, 36, 38, 39]
+	27 is now being served for 5 minutes.
+42: [27, 29, 30, 31, 33, 36, 38, 39]
+	27 is now being served for 4 minutes.
+43: [27, 29, 30, 31, 33, 36, 38, 39, 43]
+	27 is now being served for 3 minutes.
+44: [27, 29, 30, 31, 33, 36, 38, 39, 43, 44]
+	27 is now being served for 2 minutes.
+45: [27, 29, 30, 31, 33, 36, 38, 39, 43, 44]
+	27 is now being served for 1 minutes.
+46: [29, 30, 31, 33, 36, 38, 39, 43, 44]
+	29 is now being served for 6 minutes.
+47: [29, 30, 31, 33, 36, 38, 39, 43, 44, 47]
+	29 is now being served for 5 minutes.
+48: [29, 30, 31, 33, 36, 38, 39, 43, 44, 47]
+	29 is now being served for 4 minutes.
+49: [29, 30, 31, 33, 36, 38, 39, 43, 44, 47]
+	29 is now being served for 3 minutes.
+50: [29, 30, 31, 33, 36, 38, 39, 43, 44, 47, 50]
+	29 is now being served for 2 minutes.
+51: [29, 30, 31, 33, 36, 38, 39, 43, 44, 47, 50]
+	29 is now being served for 1 minutes.
+52: [30, 31, 33, 36, 38, 39, 43, 44, 47, 50]
+	30 is now being served for 5 minutes.
+53: [30, 31, 33, 36, 38, 39, 43, 44, 47, 50, 53]
+	30 is now being served for 4 minutes.
+54: [30, 31, 33, 36, 38, 39, 43, 44, 47, 50, 53]
+	30 is now being served for 3 minutes.
+55: [30, 31, 33, 36, 38, 39, 43, 44, 47, 50, 53]
+	30 is now being served for 2 minutes.
+56: [30, 31, 33, 36, 38, 39, 43, 44, 47, 50, 53]
+	30 is now being served for 1 minutes.
+57: [31, 33, 36, 38, 39, 43, 44, 47, 50, 53, 57]
+	31 is now being served for 5 minutes.
+58: [31, 33, 36, 38, 39, 43, 44, 47, 50, 53, 57]
+	31 is now being served for 4 minutes.
+59: [31, 33, 36, 38, 39, 43, 44, 47, 50, 53, 57]
+	31 is now being served for 3 minutes.
+60: [31, 33, 36, 38, 39, 43, 44, 47, 50, 53, 57]
+	31 is now being served for 2 minutes.
+61: [31, 33, 36, 38, 39, 43, 44, 47, 50, 53, 57]
+	31 is now being served for 1 minutes.
+62: [33, 36, 38, 39, 43, 44, 47, 50, 53, 57, 62]
+	33 is now being served for 6 minutes.
+63: [33, 36, 38, 39, 43, 44, 47, 50, 53, 57, 62]
+	33 is now being served for 5 minutes.
+64: [33, 36, 38, 39, 43, 44, 47, 50, 53, 57, 62, 64]
+	33 is now being served for 4 minutes.
+65: [33, 36, 38, 39, 43, 44, 47, 50, 53, 57, 62, 64, 65]
+	33 is now being served for 3 minutes.
+66: [33, 36, 38, 39, 43, 44, 47, 50, 53, 57, 62, 64, 65]
+	33 is now being served for 2 minutes.
+67: [33, 36, 38, 39, 43, 44, 47, 50, 53, 57, 62, 64, 65, 67]
+	33 is now being served for 1 minutes.
+68: [36, 38, 39, 43, 44, 47, 50, 53, 57, 62, 64, 65, 67]
+	36 is now being served for 5 minutes.
+69: [36, 38, 39, 43, 44, 47, 50, 53, 57, 62, 64, 65, 67]
+	36 is now being served for 4 minutes.
+70: [36, 38, 39, 43, 44, 47, 50, 53, 57, 62, 64, 65, 67]
+	36 is now being served for 3 minutes.
+71: [36, 38, 39, 43, 44, 47, 50, 53, 57, 62, 64, 65, 67, 71]
+	36 is now being served for 2 minutes.
+72: [36, 38, 39, 43, 44, 47, 50, 53, 57, 62, 64, 65, 67, 71]
+	36 is now being served for 1 minutes.
+73: [38, 39, 43, 44, 47, 50, 53, 57, 62, 64, 65, 67, 71]
+	38 is now being served for 3 minutes.
+74: [38, 39, 43, 44, 47, 50, 53, 57, 62, 64, 65, 67, 71]
+	38 is now being served for 2 minutes.
+75: [38, 39, 43, 44, 47, 50, 53, 57, 62, 64, 65, 67, 71]
+	38 is now being served for 1 minutes.
+76: [39, 43, 44, 47, 50, 53, 57, 62, 64, 65, 67, 71, 76]
+	39 is now being served for 4 minutes.
+77: [39, 43, 44, 47, 50, 53, 57, 62, 64, 65, 67, 71, 76]
+	39 is now being served for 3 minutes.
+78: [39, 43, 44, 47, 50, 53, 57, 62, 64, 65, 67, 71, 76]
+	39 is now being served for 2 minutes.
+79: [39, 43, 44, 47, 50, 53, 57, 62, 64, 65, 67, 71, 76]
+	39 is now being served for 1 minutes.
+80: [43, 44, 47, 50, 53, 57, 62, 64, 65, 67, 71, 76]
+	43 is now being served for 6 minutes.
+81: [43, 44, 47, 50, 53, 57, 62, 64, 65, 67, 71, 76]
+	43 is now being served for 5 minutes.
+82: [43, 44, 47, 50, 53, 57, 62, 64, 65, 67, 71, 76]
+	43 is now being served for 4 minutes.
+83: [43, 44, 47, 50, 53, 57, 62, 64, 65, 67, 71, 76]
+	43 is now being served for 3 minutes.
+84: [43, 44, 47, 50, 53, 57, 62, 64, 65, 67, 71, 76]
+	43 is now being served for 2 minutes.
+85: [43, 44, 47, 50, 53, 57, 62, 64, 65, 67, 71, 76]
+	43 is now being served for 1 minutes.
+86: [44, 47, 50, 53, 57, 62, 64, 65, 67, 71, 76]
+	44 is now being served for 7 minutes.
+87: [44, 47, 50, 53, 57, 62, 64, 65, 67, 71, 76, 87]
+	44 is now being served for 6 minutes.
+88: [44, 47, 50, 53, 57, 62, 64, 65, 67, 71, 76, 87, 88]
+	44 is now being served for 5 minutes.
+89: [44, 47, 50, 53, 57, 62, 64, 65, 67, 71, 76, 87, 88]
+	44 is now being served for 4 minutes.
+90: [44, 47, 50, 53, 57, 62, 64, 65, 67, 71, 76, 87, 88, 90]
+	44 is now being served for 3 minutes.
+91: [44, 47, 50, 53, 57, 62, 64, 65, 67, 71, 76, 87, 88, 90]
+	44 is now being served for 2 minutes.
+92: [44, 47, 50, 53, 57, 62, 64, 65, 67, 71, 76, 87, 88, 90]
+	44 is now being served for 1 minutes.
+93: [47, 50, 53, 57, 62, 64, 65, 67, 71, 76, 87, 88, 90]
+	47 is now being served for 6 minutes.
+94: [47, 50, 53, 57, 62, 64, 65, 67, 71, 76, 87, 88, 90]
+	47 is now being served for 5 minutes.
+95: [47, 50, 53, 57, 62, 64, 65, 67, 71, 76, 87, 88, 90]
+	47 is now being served for 4 minutes.
+96: [47, 50, 53, 57, 62, 64, 65, 67, 71, 76, 87, 88, 90]
+	47 is now being served for 3 minutes.
+97: [47, 50, 53, 57, 62, 64, 65, 67, 71, 76, 87, 88, 90]
+	47 is now being served for 2 minutes.
+98: [47, 50, 53, 57, 62, 64, 65, 67, 71, 76, 87, 88, 90]
+	47 is now being served for 1 minutes.
+99: [50, 53, 57, 62, 64, 65, 67, 71, 76, 87, 88, 90]
+	50 is now being served for 7 minutes.
+100: [50, 53, 57, 62, 64, 65, 67, 71, 76, 87, 88, 90]
+	50 is now being served for 6 minutes.
+101: [50, 53, 57, 62, 64, 65, 67, 71, 76, 87, 88, 90]
+	50 is now being served for 5 minutes.
+102: [50, 53, 57, 62, 64, 65, 67, 71, 76, 87, 88, 90]
+	50 is now being served for 4 minutes.
+103: [50, 53, 57, 62, 64, 65, 67, 71, 76, 87, 88, 90]
+	50 is now being served for 3 minutes.
+104: [50, 53, 57, 62, 64, 65, 67, 71, 76, 87, 88, 90]
+	50 is now being served for 2 minutes.
+105: [50, 53, 57, 62, 64, 65, 67, 71, 76, 87, 88, 90]
+	50 is now being served for 1 minutes.
+106: [53, 57, 62, 64, 65, 67, 71, 76, 87, 88, 90]
+	53 is now being served for 3 minutes.
+107: [53, 57, 62, 64, 65, 67, 71, 76, 87, 88, 90]
+	53 is now being served for 2 minutes.
+108: [53, 57, 62, 64, 65, 67, 71, 76, 87, 88, 90]
+	53 is now being served for 1 minutes.
+109: [57, 62, 64, 65, 67, 71, 76, 87, 88, 90]
+	57 is now being served for 2 minutes.
+110: [57, 62, 64, 65, 67, 71, 76, 87, 88, 90, 110]
+	57 is now being served for 1 minutes.
+111: [62, 64, 65, 67, 71, 76, 87, 88, 90, 110]
+	62 is now being served for 7 minutes.
+112: [62, 64, 65, 67, 71, 76, 87, 88, 90, 110, 112]
+	62 is now being served for 6 minutes.
+113: [62, 64, 65, 67, 71, 76, 87, 88, 90, 110, 112]
+	62 is now being served for 5 minutes.
+114: [62, 64, 65, 67, 71, 76, 87, 88, 90, 110, 112]
+	62 is now being served for 4 minutes.
+115: [62, 64, 65, 67, 71, 76, 87, 88, 90, 110, 112]
+	62 is now being served for 3 minutes.
+116: [62, 64, 65, 67, 71, 76, 87, 88, 90, 110, 112]
+	62 is now being served for 2 minutes.
+117: [62, 64, 65, 67, 71, 76, 87, 88, 90, 110, 112, 117]
+	62 is now being served for 1 minutes.
+118: [64, 65, 67, 71, 76, 87, 88, 90, 110, 112, 117]
+	64 is now being served for 6 minutes.
+119: [64, 65, 67, 71, 76, 87, 88, 90, 110, 112, 117, 119]
+	64 is now being served for 5 minutes.
+120: [64, 65, 67, 71, 76, 87, 88, 90, 110, 112, 117, 119]
+	64 is now being served for 4 minutes.
+121: [64, 65, 67, 71, 76, 87, 88, 90, 110, 112, 117, 119, 121]
+	64 is now being served for 3 minutes.
+122: [64, 65, 67, 71, 76, 87, 88, 90, 110, 112, 117, 119, 121]
+	64 is now being served for 2 minutes.
+123: [64, 65, 67, 71, 76, 87, 88, 90, 110, 112, 117, 119, 121]
+	64 is now being served for 1 minutes.
+124: [65, 67, 71, 76, 87, 88, 90, 110, 112, 117, 119, 121]
+	65 is now being served for 7 minutes.
+125: [65, 67, 71, 76, 87, 88, 90, 110, 112, 117, 119, 121]
+	65 is now being served for 6 minutes.
+126: [65, 67, 71, 76, 87, 88, 90, 110, 112, 117, 119, 121]
+	65 is now being served for 5 minutes.
+127: [65, 67, 71, 76, 87, 88, 90, 110, 112, 117, 119, 121, 127]
+	65 is now being served for 4 minutes.
+128: [65, 67, 71, 76, 87, 88, 90, 110, 112, 117, 119, 121, 127]
+	65 is now being served for 3 minutes.
+129: [65, 67, 71, 76, 87, 88, 90, 110, 112, 117, 119, 121, 127]
+	65 is now being served for 2 minutes.
+130: [65, 67, 71, 76, 87, 88, 90, 110, 112, 117, 119, 121, 127]
+	65 is now being served for 1 minutes.
+131: [67, 71, 76, 87, 88, 90, 110, 112, 117, 119, 121, 127]
+	67 is now being served for 6 minutes.
+132: [67, 71, 76, 87, 88, 90, 110, 112, 117, 119, 121, 127, 132]
+	67 is now being served for 5 minutes.
+133: [67, 71, 76, 87, 88, 90, 110, 112, 117, 119, 121, 127, 132]
+	67 is now being served for 4 minutes.
+134: [67, 71, 76, 87, 88, 90, 110, 112, 117, 119, 121, 127, 132]
+	67 is now being served for 3 minutes.
+135: [67, 71, 76, 87, 88, 90, 110, 112, 117, 119, 121, 127, 132]
+	67 is now being served for 2 minutes.
+136: [67, 71, 76, 87, 88, 90, 110, 112, 117, 119, 121, 127, 132]
+	67 is now being served for 1 minutes.
+137: [71, 76, 87, 88, 90, 110, 112, 117, 119, 121, 127, 132]
+	71 is now being served for 2 minutes.
+138: [71, 76, 87, 88, 90, 110, 112, 117, 119, 121, 127, 132]
+	71 is now being served for 1 minutes.
+139: [76, 87, 88, 90, 110, 112, 117, 119, 121, 127, 132]
+	76 is now being served for 4 minutes.
+140: [76, 87, 88, 90, 110, 112, 117, 119, 121, 127, 132]
+	76 is now being served for 3 minutes.
+141: [76, 87, 88, 90, 110, 112, 117, 119, 121, 127, 132]
+	76 is now being served for 2 minutes.
+142: [76, 87, 88, 90, 110, 112, 117, 119, 121, 127, 132]
+	76 is now being served for 1 minutes.
+143: [87, 88, 90, 110, 112, 117, 119, 121, 127, 132]
+	87 is now being served for 5 minutes.
+144: [87, 88, 90, 110, 112, 117, 119, 121, 127, 132]
+	87 is now being served for 4 minutes.
+145: [87, 88, 90, 110, 112, 117, 119, 121, 127, 132]
+	87 is now being served for 3 minutes.
+146: [87, 88, 90, 110, 112, 117, 119, 121, 127, 132]
+	87 is now being served for 2 minutes.
+147: [87, 88, 90, 110, 112, 117, 119, 121, 127, 132, 147]
+	87 is now being served for 1 minutes.
+148: [88, 90, 110, 112, 117, 119, 121, 127, 132, 147]
+	88 is now being served for 6 minutes.
+149: [88, 90, 110, 112, 117, 119, 121, 127, 132, 147]
+	88 is now being served for 5 minutes.
+150: [88, 90, 110, 112, 117, 119, 121, 127, 132, 147]
+	88 is now being served for 4 minutes.
+151: [88, 90, 110, 112, 117, 119, 121, 127, 132, 147]
+	88 is now being served for 3 minutes.
+152: [88, 90, 110, 112, 117, 119, 121, 127, 132, 147]
+	88 is now being served for 2 minutes.
+153: [88, 90, 110, 112, 117, 119, 121, 127, 132, 147, 153]
+	88 is now being served for 1 minutes.
+154: [90, 110, 112, 117, 119, 121, 127, 132, 147, 153]
+	90 is now being served for 3 minutes.
+155: [90, 110, 112, 117, 119, 121, 127, 132, 147, 153, 155]
+	90 is now being served for 2 minutes.
+156: [90, 110, 112, 117, 119, 121, 127, 132, 147, 153, 155]
+	90 is now being served for 1 minutes.
+157: [110, 112, 117, 119, 121, 127, 132, 147, 153, 155]
+	110 is now being served for 7 minutes.
+158: [110, 112, 117, 119, 121, 127, 132, 147, 153, 155, 158]
+	110 is now being served for 6 minutes.
+159: [110, 112, 117, 119, 121, 127, 132, 147, 153, 155, 158]
+	110 is now being served for 5 minutes.
+160: [110, 112, 117, 119, 121, 127, 132, 147, 153, 155, 158]
+	110 is now being served for 4 minutes.
+161: [110, 112, 117, 119, 121, 127, 132, 147, 153, 155, 158, 161]
+	110 is now being served for 3 minutes.
+162: [110, 112, 117, 119, 121, 127, 132, 147, 153, 155, 158, 161]
+	110 is now being served for 2 minutes.
+163: [110, 112, 117, 119, 121, 127, 132, 147, 153, 155, 158, 161]
+	110 is now being served for 1 minutes.
+164: [112, 117, 119, 121, 127, 132, 147, 153, 155, 158, 161]
+	112 is now being served for 5 minutes.
+165: [112, 117, 119, 121, 127, 132, 147, 153, 155, 158, 161]
+	112 is now being served for 4 minutes.
+166: [112, 117, 119, 121, 127, 132, 147, 153, 155, 158, 161]
+	112 is now being served for 3 minutes.
+167: [112, 117, 119, 121, 127, 132, 147, 153, 155, 158, 161]
+	112 is now being served for 2 minutes.
+168: [112, 117, 119, 121, 127, 132, 147, 153, 155, 158, 161]
+	112 is now being served for 1 minutes.
+169: [117, 119, 121, 127, 132, 147, 153, 155, 158, 161, 169]
+	117 is now being served for 6 minutes.
+170: [117, 119, 121, 127, 132, 147, 153, 155, 158, 161, 169]
+	117 is now being served for 5 minutes.
+171: [117, 119, 121, 127, 132, 147, 153, 155, 158, 161, 169]
+	117 is now being served for 4 minutes.
+172: [117, 119, 121, 127, 132, 147, 153, 155, 158, 161, 169]
+	117 is now being served for 3 minutes.
+173: [117, 119, 121, 127, 132, 147, 153, 155, 158, 161, 169]
+	117 is now being served for 2 minutes.
+174: [117, 119, 121, 127, 132, 147, 153, 155, 158, 161, 169]
+	117 is now being served for 1 minutes.
+175: [119, 121, 127, 132, 147, 153, 155, 158, 161, 169]
+	119 is now being served for 4 minutes.
+176: [119, 121, 127, 132, 147, 153, 155, 158, 161, 169, 176]
+	119 is now being served for 3 minutes.
+177: [119, 121, 127, 132, 147, 153, 155, 158, 161, 169, 176]
+	119 is now being served for 2 minutes.
+178: [119, 121, 127, 132, 147, 153, 155, 158, 161, 169, 176]
+	119 is now being served for 1 minutes.
+179: [121, 127, 132, 147, 153, 155, 158, 161, 169, 176]
+	121 is now being served for 7 minutes.
+180: [121, 127, 132, 147, 153, 155, 158, 161, 169, 176]
+	121 is now being served for 6 minutes.
+181: [121, 127, 132, 147, 153, 155, 158, 161, 169, 176]
+	121 is now being served for 5 minutes.
+182: [121, 127, 132, 147, 153, 155, 158, 161, 169, 176]
+	121 is now being served for 4 minutes.
+183: [121, 127, 132, 147, 153, 155, 158, 161, 169, 176]
+	121 is now being served for 3 minutes.
+184: [121, 127, 132, 147, 153, 155, 158, 161, 169, 176, 184]
+	121 is now being served for 2 minutes.
+185: [121, 127, 132, 147, 153, 155, 158, 161, 169, 176, 184]
+	121 is now being served for 1 minutes.
+186: [127, 132, 147, 153, 155, 158, 161, 169, 176, 184]
+	127 is now being served for 5 minutes.
+187: [127, 132, 147, 153, 155, 158, 161, 169, 176, 184]
+	127 is now being served for 4 minutes.
+188: [127, 132, 147, 153, 155, 158, 161, 169, 176, 184]
+	127 is now being served for 3 minutes.
+189: [127, 132, 147, 153, 155, 158, 161, 169, 176, 184]
+	127 is now being served for 2 minutes.
+190: [127, 132, 147, 153, 155, 158, 161, 169, 176, 184, 190]
+	127 is now being served for 1 minutes.
+191: [132, 147, 153, 155, 158, 161, 169, 176, 184, 190]
+	132 is now being served for 3 minutes.
+192: [132, 147, 153, 155, 158, 161, 169, 176, 184, 190]
+	132 is now being served for 2 minutes.
+193: [132, 147, 153, 155, 158, 161, 169, 176, 184, 190]
+	132 is now being served for 1 minutes.
+194: [147, 153, 155, 158, 161, 169, 176, 184, 190]
+	147 is now being served for 2 minutes.
+195: [147, 153, 155, 158, 161, 169, 176, 184, 190]
+	147 is now being served for 1 minutes.
+196: [153, 155, 158, 161, 169, 176, 184, 190]
+	153 is now being served for 4 minutes.
+197: [153, 155, 158, 161, 169, 176, 184, 190]
+	153 is now being served for 3 minutes.
+198: [153, 155, 158, 161, 169, 176, 184, 190]
+	153 is now being served for 2 minutes.
+199: [153, 155, 158, 161, 169, 176, 184, 190]
+	153 is now being served for 1 minutes.
+200: [155, 158, 161, 169, 176, 184, 190]
+	155 is now being served for 7 minutes.
+201: [155, 158, 161, 169, 176, 184, 190]
+	155 is now being served for 6 minutes.
+202: [155, 158, 161, 169, 176, 184, 190]
+	155 is now being served for 5 minutes.
+203: [155, 158, 161, 169, 176, 184, 190, 203]
+	155 is now being served for 4 minutes.
+204: [155, 158, 161, 169, 176, 184, 190, 203, 204]
+	155 is now being served for 3 minutes.
+205: [155, 158, 161, 169, 176, 184, 190, 203, 204]
+	155 is now being served for 2 minutes.
+206: [155, 158, 161, 169, 176, 184, 190, 203, 204]
+	155 is now being served for 1 minutes.
+207: [158, 161, 169, 176, 184, 190, 203, 204]
+	158 is now being served for 3 minutes.
+208: [158, 161, 169, 176, 184, 190, 203, 204]
+	158 is now being served for 2 minutes.
+209: [158, 161, 169, 176, 184, 190, 203, 204]
+	158 is now being served for 1 minutes.
+210: [161, 169, 176, 184, 190, 203, 204]
+	161 is now being served for 4 minutes.
+211: [161, 169, 176, 184, 190, 203, 204]
+	161 is now being served for 3 minutes.
+212: [161, 169, 176, 184, 190, 203, 204, 212]
+	161 is now being served for 2 minutes.
+213: [161, 169, 176, 184, 190, 203, 204, 212]
+	161 is now being served for 1 minutes.
+214: [169, 176, 184, 190, 203, 204, 212]
+	169 is now being served for 2 minutes.
+215: [169, 176, 184, 190, 203, 204, 212]
+	169 is now being served for 1 minutes.
+216: [176, 184, 190, 203, 204, 212]
+	176 is now being served for 4 minutes.
+217: [176, 184, 190, 203, 204, 212]
+	176 is now being served for 3 minutes.
+218: [176, 184, 190, 203, 204, 212]
+	176 is now being served for 2 minutes.
+219: [176, 184, 190, 203, 204, 212]
+	176 is now being served for 1 minutes.
+220: [184, 190, 203, 204, 212]
+	184 is now being served for 2 minutes.
+221: [184, 190, 203, 204, 212]
+	184 is now being served for 1 minutes.
+222: [190, 203, 204, 212]
+	190 is now being served for 2 minutes.
+223: [190, 203, 204, 212, 223]
+	190 is now being served for 1 minutes.
+224: [203, 204, 212, 223]
+	203 is now being served for 6 minutes.
+225: [203, 204, 212, 223]
+	203 is now being served for 5 minutes.
+226: [203, 204, 212, 223]
+	203 is now being served for 4 minutes.
+227: [203, 204, 212, 223]
+	203 is now being served for 3 minutes.
+228: [203, 204, 212, 223, 228]
+	203 is now being served for 2 minutes.
+229: [203, 204, 212, 223, 228]
+	203 is now being served for 1 minutes.
+230: [204, 212, 223, 228]
+	204 is now being served for 5 minutes.
+231: [204, 212, 223, 228]
+	204 is now being served for 4 minutes.
+232: [204, 212, 223, 228]
+	204 is now being served for 3 minutes.
+233: [204, 212, 223, 228, 233]
+	204 is now being served for 2 minutes.
+234: [204, 212, 223, 228, 233]
+	204 is now being served for 1 minutes.
+235: [212, 223, 228, 233]
+	212 is now being served for 6 minutes.
+236: [212, 223, 228, 233, 236]
+	212 is now being served for 5 minutes.
+237: [212, 223, 228, 233, 236]
+	212 is now being served for 4 minutes.
+238: [212, 223, 228, 233, 236]
+	212 is now being served for 3 minutes.
+239: [212, 223, 228, 233, 236]
+	212 is now being served for 2 minutes.
+240: [212, 223, 228, 233, 236, 240]
+	212 is now being served for 1 minutes.
+241: [223, 228, 233, 236, 240]
+	223 is now being served for 2 minutes.
+242: [223, 228, 233, 236, 240]
+	223 is now being served for 1 minutes.
+243: [228, 233, 236, 240]
+	228 is now being served for 2 minutes.
+244: [228, 233, 236, 240, 244]
+	228 is now being served for 1 minutes.
+245: [233, 236, 240, 244, 245]
+	233 is now being served for 7 minutes.
+246: [233, 236, 240, 244, 245]
+	233 is now being served for 6 minutes.
+247: [233, 236, 240, 244, 245]
+	233 is now being served for 5 minutes.
+248: [233, 236, 240, 244, 245]
+	233 is now being served for 4 minutes.
+249: [233, 236, 240, 244, 245]
+	233 is now being served for 3 minutes.
+250: [233, 236, 240, 244, 245]
+	233 is now being served for 2 minutes.
+251: [233, 236, 240, 244, 245]
+	233 is now being served for 1 minutes.
+252: [236, 240, 244, 245]
+	236 is now being served for 4 minutes.
+253: [236, 240, 244, 245]
+	236 is now being served for 3 minutes.
+254: [236, 240, 244, 245]
+	236 is now being served for 2 minutes.
+255: [236, 240, 244, 245]
+	236 is now being served for 1 minutes.
+256: [240, 244, 245]
+	240 is now being served for 5 minutes.
+257: [240, 244, 245, 257]
+	240 is now being served for 4 minutes.
+258: [240, 244, 245, 257, 258]
+	240 is now being served for 3 minutes.
+259: [240, 244, 245, 257, 258]
+	240 is now being served for 2 minutes.
+260: [240, 244, 245, 257, 258, 260]
+	240 is now being served for 1 minutes.
+261: [244, 245, 257, 258, 260]
+	244 is now being served for 2 minutes.
+262: [244, 245, 257, 258, 260]
+	244 is now being served for 1 minutes.
+263: [245, 257, 258, 260]
+	245 is now being served for 5 minutes.
+264: [245, 257, 258, 260]
+	245 is now being served for 4 minutes.
+265: [245, 257, 258, 260]
+	245 is now being served for 3 minutes.
+266: [245, 257, 258, 260, 266]
+	245 is now being served for 2 minutes.
+267: [245, 257, 258, 260, 266]
+	245 is now being served for 1 minutes.
+268: [257, 258, 260, 266]
+	257 is now being served for 6 minutes.
+269: [257, 258, 260, 266]
+	257 is now being served for 5 minutes.
+270: [257, 258, 260, 266, 270]
+	257 is now being served for 4 minutes.
+271: [257, 258, 260, 266, 270]
+	257 is now being served for 3 minutes.
+272: [257, 258, 260, 266, 270]
+	257 is now being served for 2 minutes.
+273: [257, 258, 260, 266, 270]
+	257 is now being served for 1 minutes.
+274: [258, 260, 266, 270, 274]
+	258 is now being served for 4 minutes.
+275: [258, 260, 266, 270, 274, 275]
+	258 is now being served for 3 minutes.
+276: [258, 260, 266, 270, 274, 275, 276]
+	258 is now being served for 2 minutes.
+277: [258, 260, 266, 270, 274, 275, 276]
+	258 is now being served for 1 minutes.
+278: [260, 266, 270, 274, 275, 276, 278]
+	260 is now being served for 3 minutes.
+279: [260, 266, 270, 274, 275, 276, 278, 279]
+	260 is now being served for 2 minutes.
+280: [260, 266, 270, 274, 275, 276, 278, 279]
+	260 is now being served for 1 minutes.
+281: [266, 270, 274, 275, 276, 278, 279, 281]
+	266 is now being served for 3 minutes.
+282: [266, 270, 274, 275, 276, 278, 279, 281, 282]
+	266 is now being served for 2 minutes.
+283: [266, 270, 274, 275, 276, 278, 279, 281, 282]
+	266 is now being served for 1 minutes.
+284: [270, 274, 275, 276, 278, 279, 281, 282, 284]
+	270 is now being served for 6 minutes.
+285: [270, 274, 275, 276, 278, 279, 281, 282, 284]
+	270 is now being served for 5 minutes.
+286: [270, 274, 275, 276, 278, 279, 281, 282, 284]
+	270 is now being served for 4 minutes.
+287: [270, 274, 275, 276, 278, 279, 281, 282, 284]
+	270 is now being served for 3 minutes.
+288: [270, 274, 275, 276, 278, 279, 281, 282, 284]
+	270 is now being served for 2 minutes.
+289: [270, 274, 275, 276, 278, 279, 281, 282, 284]
+	270 is now being served for 1 minutes.
+290: [274, 275, 276, 278, 279, 281, 282, 284]
+	274 is now being served for 7 minutes.
+291: [274, 275, 276, 278, 279, 281, 282, 284]
+	274 is now being served for 6 minutes.
+292: [274, 275, 276, 278, 279, 281, 282, 284]
+	274 is now being served for 5 minutes.
+293: [274, 275, 276, 278, 279, 281, 282, 284]
+	274 is now being served for 4 minutes.
+294: [274, 275, 276, 278, 279, 281, 282, 284]
+	274 is now being served for 3 minutes.
+295: [274, 275, 276, 278, 279, 281, 282, 284, 295]
+	274 is now being served for 2 minutes.
+296: [274, 275, 276, 278, 279, 281, 282, 284, 295]
+	274 is now being served for 1 minutes.
+297: [275, 276, 278, 279, 281, 282, 284, 295]
+	275 is now being served for 4 minutes.
+298: [275, 276, 278, 279, 281, 282, 284, 295]
+	275 is now being served for 3 minutes.
+299: [275, 276, 278, 279, 281, 282, 284, 295]
+	275 is now being served for 2 minutes.
+300: [275, 276, 278, 279, 281, 282, 284, 295]
+	275 is now being served for 1 minutes.
+301: [276, 278, 279, 281, 282, 284, 295]
+	276 is now being served for 7 minutes.
+302: [276, 278, 279, 281, 282, 284, 295, 302]
+	276 is now being served for 6 minutes.
+303: [276, 278, 279, 281, 282, 284, 295, 302]
+	276 is now being served for 5 minutes.
+304: [276, 278, 279, 281, 282, 284, 295, 302]
+	276 is now being served for 4 minutes.
+305: [276, 278, 279, 281, 282, 284, 295, 302]
+	276 is now being served for 3 minutes.
+306: [276, 278, 279, 281, 282, 284, 295, 302]
+	276 is now being served for 2 minutes.
+307: [276, 278, 279, 281, 282, 284, 295, 302]
+	276 is now being served for 1 minutes.
+308: [278, 279, 281, 282, 284, 295, 302]
+	278 is now being served for 4 minutes.
+309: [278, 279, 281, 282, 284, 295, 302]
+	278 is now being served for 3 minutes.
+310: [278, 279, 281, 282, 284, 295, 302]
+	278 is now being served for 2 minutes.
+311: [278, 279, 281, 282, 284, 295, 302]
+	278 is now being served for 1 minutes.
+312: [279, 281, 282, 284, 295, 302]
+	279 is now being served for 5 minutes.
+313: [279, 281, 282, 284, 295, 302, 313]
+	279 is now being served for 4 minutes.
+314: [279, 281, 282, 284, 295, 302, 313]
+	279 is now being served for 3 minutes.
+315: [279, 281, 282, 284, 295, 302, 313]
+	279 is now being served for 2 minutes.
+316: [279, 281, 282, 284, 295, 302, 313]
+	279 is now being served for 1 minutes.
+317: [281, 282, 284, 295, 302, 313]
+	281 is now being served for 4 minutes.
+318: [281, 282, 284, 295, 302, 313]
+	281 is now being served for 3 minutes.
+319: [281, 282, 284, 295, 302, 313]
+	281 is now being served for 2 minutes.
+320: [281, 282, 284, 295, 302, 313, 320]
+	281 is now being served for 1 minutes.
+321: [282, 284, 295, 302, 313, 320, 321]
+	282 is now being served for 5 minutes.
+322: [282, 284, 295, 302, 313, 320, 321]
+	282 is now being served for 4 minutes.
+323: [282, 284, 295, 302, 313, 320, 321]
+	282 is now being served for 3 minutes.
+324: [282, 284, 295, 302, 313, 320, 321]
+	282 is now being served for 2 minutes.
+325: [282, 284, 295, 302, 313, 320, 321]
+	282 is now being served for 1 minutes.
+326: [284, 295, 302, 313, 320, 321]
+	284 is now being served for 3 minutes.
+327: [284, 295, 302, 313, 320, 321]
+	284 is now being served for 2 minutes.
+328: [284, 295, 302, 313, 320, 321]
+	284 is now being served for 1 minutes.
+329: [295, 302, 313, 320, 321]
+	295 is now being served for 3 minutes.
+330: [295, 302, 313, 320, 321]
+	295 is now being served for 2 minutes.
+331: [295, 302, 313, 320, 321]
+	295 is now being served for 1 minutes.
+332: [302, 313, 320, 321, 332]
+	302 is now being served for 6 minutes.
+333: [302, 313, 320, 321, 332]
+	302 is now being served for 5 minutes.
+334: [302, 313, 320, 321, 332]
+	302 is now being served for 4 minutes.
+335: [302, 313, 320, 321, 332]
+	302 is now being served for 3 minutes.
+336: [302, 313, 320, 321, 332]
+	302 is now being served for 2 minutes.
+337: [302, 313, 320, 321, 332]
+	302 is now being served for 1 minutes.
+338: [313, 320, 321, 332]
+	313 is now being served for 3 minutes.
+339: [313, 320, 321, 332]
+	313 is now being served for 2 minutes.
+340: [313, 320, 321, 332]
+	313 is now being served for 1 minutes.
+341: [320, 321, 332]
+	320 is now being served for 6 minutes.
+342: [320, 321, 332]
+	320 is now being served for 5 minutes.
+343: [320, 321, 332]
+	320 is now being served for 4 minutes.
+344: [320, 321, 332]
+	320 is now being served for 3 minutes.
+345: [320, 321, 332, 345]
+	320 is now being served for 2 minutes.
+346: [320, 321, 332, 345, 346]
+	320 is now being served for 1 minutes.
+347: [321, 332, 345, 346]
+	321 is now being served for 3 minutes.
+348: [321, 332, 345, 346, 348]
+	321 is now being served for 2 minutes.
+349: [321, 332, 345, 346, 348]
+	321 is now being served for 1 minutes.
+350: [332, 345, 346, 348]
+	332 is now being served for 5 minutes.
+351: [332, 345, 346, 348]
+	332 is now being served for 4 minutes.
+352: [332, 345, 346, 348]
+	332 is now being served for 3 minutes.
+353: [332, 345, 346, 348]
+	332 is now being served for 2 minutes.
+354: [332, 345, 346, 348]
+	332 is now being served for 1 minutes.
+355: [345, 346, 348]
+	345 is now being served for 7 minutes.
+356: [345, 346, 348]
+	345 is now being served for 6 minutes.
+357: [345, 346, 348]
+	345 is now being served for 5 minutes.
+358: [345, 346, 348, 358]
+	345 is now being served for 4 minutes.
+359: [345, 346, 348, 358]
+	345 is now being served for 3 minutes.
+360: [345, 346, 348, 358]
+	345 is now being served for 2 minutes.
+361: [345, 346, 348, 358]
+	345 is now being served for 1 minutes.
+362: [346, 348, 358]
+	346 is now being served for 2 minutes.
+363: [346, 348, 358]
+	346 is now being served for 1 minutes.
+364: [348, 358, 364]
+	348 is now being served for 4 minutes.
+365: [348, 358, 364, 365]
+	348 is now being served for 3 minutes.
+366: [348, 358, 364, 365]
+	348 is now being served for 2 minutes.
+367: [348, 358, 364, 365]
+	348 is now being served for 1 minutes.
+368: [358, 364, 365]
+	358 is now being served for 6 minutes.
+369: [358, 364, 365]
+	358 is now being served for 5 minutes.
+370: [358, 364, 365]
+	358 is now being served for 4 minutes.
+371: [358, 364, 365]
+	358 is now being served for 3 minutes.
+372: [358, 364, 365, 372]
+	358 is now being served for 2 minutes.
+373: [358, 364, 365, 372]
+	358 is now being served for 1 minutes.
+374: [364, 365, 372]
+	364 is now being served for 7 minutes.
+375: [364, 365, 372]
+	364 is now being served for 6 minutes.
+376: [364, 365, 372]
+	364 is now being served for 5 minutes.
+377: [364, 365, 372]
+	364 is now being served for 4 minutes.
+378: [364, 365, 372]
+	364 is now being served for 3 minutes.
+379: [364, 365, 372]
+	364 is now being served for 2 minutes.
+380: [364, 365, 372]
+	364 is now being served for 1 minutes.
+381: [365, 372]
+	365 is now being served for 3 minutes.
+382: [365, 372]
+	365 is now being served for 2 minutes.
+383: [365, 372, 383]
+	365 is now being served for 1 minutes.
+384: [372, 383, 384]
+	372 is now being served for 6 minutes.
+385: [372, 383, 384]
+	372 is now being served for 5 minutes.
+386: [372, 383, 384]
+	372 is now being served for 4 minutes.
+387: [372, 383, 384, 387]
+	372 is now being served for 3 minutes.
+388: [372, 383, 384, 387, 388]
+	372 is now being served for 2 minutes.
+389: [372, 383, 384, 387, 388]
+	372 is now being served for 1 minutes.
+390: [383, 384, 387, 388, 390]
+	383 is now being served for 6 minutes.
+391: [383, 384, 387, 388, 390]
+	383 is now being served for 5 minutes.
+392: [383, 384, 387, 388, 390]
+	383 is now being served for 4 minutes.
+393: [383, 384, 387, 388, 390]
+	383 is now being served for 3 minutes.
+394: [383, 384, 387, 388, 390, 394]
+	383 is now being served for 2 minutes.
+395: [383, 384, 387, 388, 390, 394, 395]
+	383 is now being served for 1 minutes.
+396: [384, 387, 388, 390, 394, 395, 396]
+	384 is now being served for 6 minutes.
+397: [384, 387, 388, 390, 394, 395, 396, 397]
+	384 is now being served for 5 minutes.
+398: [384, 387, 388, 390, 394, 395, 396, 397]
+	384 is now being served for 4 minutes.
+399: [384, 387, 388, 390, 394, 395, 396, 397]
+	384 is now being served for 3 minutes.
+400: [384, 387, 388, 390, 394, 395, 396, 397]
+	384 is now being served for 2 minutes.
+401: [384, 387, 388, 390, 394, 395, 396, 397]
+	384 is now being served for 1 minutes.
+402: [387, 388, 390, 394, 395, 396, 397]
+	387 is now being served for 5 minutes.
+403: [387, 388, 390, 394, 395, 396, 397]
+	387 is now being served for 4 minutes.
+404: [387, 388, 390, 394, 395, 396, 397]
+	387 is now being served for 3 minutes.
+405: [387, 388, 390, 394, 395, 396, 397]
+	387 is now being served for 2 minutes.
+406: [387, 388, 390, 394, 395, 396, 397]
+	387 is now being served for 1 minutes.
+407: [388, 390, 394, 395, 396, 397]
+	388 is now being served for 4 minutes.
+408: [388, 390, 394, 395, 396, 397]
+	388 is now being served for 3 minutes.
+409: [388, 390, 394, 395, 396, 397, 409]
+	388 is now being served for 2 minutes.
+410: [388, 390, 394, 395, 396, 397, 409]
+	388 is now being served for 1 minutes.
+411: [390, 394, 395, 396, 397, 409]
+	390 is now being served for 4 minutes.
+412: [390, 394, 395, 396, 397, 409]
+	390 is now being served for 3 minutes.
+413: [390, 394, 395, 396, 397, 409]
+	390 is now being served for 2 minutes.
+414: [390, 394, 395, 396, 397, 409, 414]
+	390 is now being served for 1 minutes.
+415: [394, 395, 396, 397, 409, 414]
+	394 is now being served for 7 minutes.
+416: [394, 395, 396, 397, 409, 414, 416]
+	394 is now being served for 6 minutes.
+417: [394, 395, 396, 397, 409, 414, 416, 417]
+	394 is now being served for 5 minutes.
+418: [394, 395, 396, 397, 409, 414, 416, 417]
+	394 is now being served for 4 minutes.
+419: [394, 395, 396, 397, 409, 414, 416, 417]
+	394 is now being served for 3 minutes.
+420: [394, 395, 396, 397, 409, 414, 416, 417]
+	394 is now being served for 2 minutes.
+421: [394, 395, 396, 397, 409, 414, 416, 417]
+	394 is now being served for 1 minutes.
+422: [395, 396, 397, 409, 414, 416, 417, 422]
+	395 is now being served for 3 minutes.
+423: [395, 396, 397, 409, 414, 416, 417, 422]
+	395 is now being served for 2 minutes.
+424: [395, 396, 397, 409, 414, 416, 417, 422, 424]
+	395 is now being served for 1 minutes.
+425: [396, 397, 409, 414, 416, 417, 422, 424, 425]
+	396 is now being served for 5 minutes.
+426: [396, 397, 409, 414, 416, 417, 422, 424, 425]
+	396 is now being served for 4 minutes.
+427: [396, 397, 409, 414, 416, 417, 422, 424, 425]
+	396 is now being served for 3 minutes.
+428: [396, 397, 409, 414, 416, 417, 422, 424, 425]
+	396 is now being served for 2 minutes.
+429: [396, 397, 409, 414, 416, 417, 422, 424, 425]
+	396 is now being served for 1 minutes.
+430: [397, 409, 414, 416, 417, 422, 424, 425]
+	397 is now being served for 7 minutes.
+431: [397, 409, 414, 416, 417, 422, 424, 425, 431]
+	397 is now being served for 6 minutes.
+432: [397, 409, 414, 416, 417, 422, 424, 425, 431]
+	397 is now being served for 5 minutes.
+433: [397, 409, 414, 416, 417, 422, 424, 425, 431]
+	397 is now being served for 4 minutes.
+434: [397, 409, 414, 416, 417, 422, 424, 425, 431]
+	397 is now being served for 3 minutes.
+435: [397, 409, 414, 416, 417, 422, 424, 425, 431, 435]
+	397 is now being served for 2 minutes.
+436: [397, 409, 414, 416, 417, 422, 424, 425, 431, 435, 436]
+	397 is now being served for 1 minutes.
+437: [409, 414, 416, 417, 422, 424, 425, 431, 435, 436]
+	409 is now being served for 7 minutes.
+438: [409, 414, 416, 417, 422, 424, 425, 431, 435, 436]
+	409 is now being served for 6 minutes.
+439: [409, 414, 416, 417, 422, 424, 425, 431, 435, 436]
+	409 is now being served for 5 minutes.
+440: [409, 414, 416, 417, 422, 424, 425, 431, 435, 436]
+	409 is now being served for 4 minutes.
+441: [409, 414, 416, 417, 422, 424, 425, 431, 435, 436]
+	409 is now being served for 3 minutes.
+442: [409, 414, 416, 417, 422, 424, 425, 431, 435, 436]
+	409 is now being served for 2 minutes.
+443: [409, 414, 416, 417, 422, 424, 425, 431, 435, 436]
+	409 is now being served for 1 minutes.
+444: [414, 416, 417, 422, 424, 425, 431, 435, 436]
+	414 is now being served for 2 minutes.
+445: [414, 416, 417, 422, 424, 425, 431, 435, 436]
+	414 is now being served for 1 minutes.
+446: [416, 417, 422, 424, 425, 431, 435, 436]
+	416 is now being served for 5 minutes.
+447: [416, 417, 422, 424, 425, 431, 435, 436]
+	416 is now being served for 4 minutes.
+448: [416, 417, 422, 424, 425, 431, 435, 436]
+	416 is now being served for 3 minutes.
+449: [416, 417, 422, 424, 425, 431, 435, 436]
+	416 is now being served for 2 minutes.
+450: [416, 417, 422, 424, 425, 431, 435, 436]
+	416 is now being served for 1 minutes.
+451: [417, 422, 424, 425, 431, 435, 436]
+	417 is now being served for 2 minutes.
+452: [417, 422, 424, 425, 431, 435, 436, 452]
+	417 is now being served for 1 minutes.
+453: [422, 424, 425, 431, 435, 436, 452, 453]
+	422 is now being served for 2 minutes.
+454: [422, 424, 425, 431, 435, 436, 452, 453]
+	422 is now being served for 1 minutes.
+455: [424, 425, 431, 435, 436, 452, 453]
+	424 is now being served for 3 minutes.
+456: [424, 425, 431, 435, 436, 452, 453]
+	424 is now being served for 2 minutes.
+457: [424, 425, 431, 435, 436, 452, 453, 457]
+	424 is now being served for 1 minutes.
+458: [425, 431, 435, 436, 452, 453, 457]
+	425 is now being served for 4 minutes.
+459: [425, 431, 435, 436, 452, 453, 457]
+	425 is now being served for 3 minutes.
+460: [425, 431, 435, 436, 452, 453, 457]
+	425 is now being served for 2 minutes.
+461: [425, 431, 435, 436, 452, 453, 457]
+	425 is now being served for 1 minutes.
+462: [431, 435, 436, 452, 453, 457]
+	431 is now being served for 7 minutes.
+463: [431, 435, 436, 452, 453, 457]
+	431 is now being served for 6 minutes.
+464: [431, 435, 436, 452, 453, 457]
+	431 is now being served for 5 minutes.
+465: [431, 435, 436, 452, 453, 457]
+	431 is now being served for 4 minutes.
+466: [431, 435, 436, 452, 453, 457]
+	431 is now being served for 3 minutes.
+467: [431, 435, 436, 452, 453, 457, 467]
+	431 is now being served for 2 minutes.
+468: [431, 435, 436, 452, 453, 457, 467]
+	431 is now being served for 1 minutes.
+469: [435, 436, 452, 453, 457, 467]
+	435 is now being served for 2 minutes.
+470: [435, 436, 452, 453, 457, 467]
+	435 is now being served for 1 minutes.
+471: [436, 452, 453, 457, 467]
+	436 is now being served for 5 minutes.
+472: [436, 452, 453, 457, 467]
+	436 is now being served for 4 minutes.
+473: [436, 452, 453, 457, 467, 473]
+	436 is now being served for 3 minutes.
+474: [436, 452, 453, 457, 467, 473]
+	436 is now being served for 2 minutes.
+475: [436, 452, 453, 457, 467, 473]
+	436 is now being served for 1 minutes.
+476: [452, 453, 457, 467, 473]
+	452 is now being served for 6 minutes.
+477: [452, 453, 457, 467, 473]
+	452 is now being served for 5 minutes.
+478: [452, 453, 457, 467, 473]
+	452 is now being served for 4 minutes.
+479: [452, 453, 457, 467, 473]
+	452 is now being served for 3 minutes.
+480: [452, 453, 457, 467, 473]
+	452 is now being served for 2 minutes.
+481: [452, 453, 457, 467, 473, 481]
+	452 is now being served for 1 minutes.
+482: [453, 457, 467, 473, 481]
+	453 is now being served for 2 minutes.
+483: [453, 457, 467, 473, 481]
+	453 is now being served for 1 minutes.
+484: [457, 467, 473, 481]
+	457 is now being served for 5 minutes.
+485: [457, 467, 473, 481]
+	457 is now being served for 4 minutes.
+486: [457, 467, 473, 481]
+	457 is now being served for 3 minutes.
+487: [457, 467, 473, 481, 487]
+	457 is now being served for 2 minutes.
+488: [457, 467, 473, 481, 487]
+	457 is now being served for 1 minutes.
+489: [467, 473, 481, 487]
+	467 is now being served for 4 minutes.
+490: [467, 473, 481, 487]
+	467 is now being served for 3 minutes.
+491: [467, 473, 481, 487]
+	467 is now being served for 2 minutes.
+492: [467, 473, 481, 487]
+	467 is now being served for 1 minutes.
+493: [473, 481, 487, 493]
+	473 is now being served for 4 minutes.
+494: [473, 481, 487, 493]
+	473 is now being served for 3 minutes.
+495: [473, 481, 487, 493]
+	473 is now being served for 2 minutes.
+496: [473, 481, 487, 493]
+	473 is now being served for 1 minutes.
+497: [481, 487, 493]
+	481 is now being served for 2 minutes.
+498: [481, 487, 493]
+	481 is now being served for 1 minutes.
+499: [487, 493]
+	487 is now being served for 4 minutes.
+500: [487, 493]
+	487 is now being served for 3 minutes.
+501: [487, 493]
+	487 is now being served for 2 minutes.
+502: [487, 493]
+	487 is now being served for 1 minutes.
+503: [493]
+	493 is now being served for 4 minutes.
+504: [493, 504]
+	493 is now being served for 3 minutes.
+505: [493, 504, 505]
+	493 is now being served for 2 minutes.
+506: [493, 504, 505, 506]
+	493 is now being served for 1 minutes.
+507: [504, 505, 506]
+	504 is now being served for 3 minutes.
+508: [504, 505, 506]
+	504 is now being served for 2 minutes.
+509: [504, 505, 506]
+	504 is now being served for 1 minutes.
+510: [505, 506]
+	505 is now being served for 7 minutes.
+511: [505, 506, 511]
+	505 is now being served for 6 minutes.
+512: [505, 506, 511]
+	505 is now being served for 5 minutes.
+513: [505, 506, 511]
+	505 is now being served for 4 minutes.
+514: [505, 506, 511]
+	505 is now being served for 3 minutes.
+515: [505, 506, 511]
+	505 is now being served for 2 minutes.
+516: [505, 506, 511]
+	505 is now being served for 1 minutes.
+517: [506, 511]
+	506 is now being served for 7 minutes.
+518: [506, 511]
+	506 is now being served for 6 minutes.
+519: [506, 511]
+	506 is now being served for 5 minutes.
+520: [506, 511]
+	506 is now being served for 4 minutes.
+521: [506, 511]
+	506 is now being served for 3 minutes.
+522: [506, 511]
+	506 is now being served for 2 minutes.
+523: [506, 511, 523]
+	506 is now being served for 1 minutes.
+524: [511, 523]
+	511 is now being served for 5 minutes.
+525: [511, 523]
+	511 is now being served for 4 minutes.
+526: [511, 523]
+	511 is now being served for 3 minutes.
+527: [511, 523]
+	511 is now being served for 2 minutes.
+528: [511, 523]
+	511 is now being served for 1 minutes.
+529: [523, 529]
+	523 is now being served for 3 minutes.
+530: [523, 529]
+	523 is now being served for 2 minutes.
+531: [523, 529]
+	523 is now being served for 1 minutes.
+532: [529]
+	529 is now being served for 5 minutes.
+533: [529]
+	529 is now being served for 4 minutes.
+534: [529]
+	529 is now being served for 3 minutes.
+535: [529]
+	529 is now being served for 2 minutes.
+536: [529]
+	529 is now being served for 1 minutes.
+537: []
+538: []
+539: []
+540: []
+541: []
+542: []
+543: []
+544: [544]
+	544 is now being served for 6 minutes.
+545: [544, 545]
+	544 is now being served for 5 minutes.
+546: [544, 545, 546]
+	544 is now being served for 4 minutes.
+547: [544, 545, 546]
+	544 is now being served for 3 minutes.
+548: [544, 545, 546]
+	544 is now being served for 2 minutes.
+549: [544, 545, 546, 549]
+	544 is now being served for 1 minutes.
+550: [545, 546, 549]
+	545 is now being served for 5 minutes.
+551: [545, 546, 549]
+	545 is now being served for 4 minutes.
+552: [545, 546, 549]
+	545 is now being served for 3 minutes.
+553: [545, 546, 549]
+	545 is now being served for 2 minutes.
+554: [545, 546, 549]
+	545 is now being served for 1 minutes.
+555: [546, 549]
+	546 is now being served for 7 minutes.
+556: [546, 549]
+	546 is now being served for 6 minutes.
+557: [546, 549, 557]
+	546 is now being served for 5 minutes.
+558: [546, 549, 557]
+	546 is now being served for 4 minutes.
+559: [546, 549, 557]
+	546 is now being served for 3 minutes.
+560: [546, 549, 557, 560]
+	546 is now being served for 2 minutes.
+561: [546, 549, 557, 560]
+	546 is now being served for 1 minutes.
+562: [549, 557, 560, 562]
+	549 is now being served for 4 minutes.
+563: [549, 557, 560, 562, 563]
+	549 is now being served for 3 minutes.
+564: [549, 557, 560, 562, 563]
+	549 is now being served for 2 minutes.
+565: [549, 557, 560, 562, 563]
+	549 is now being served for 1 minutes.
+566: [557, 560, 562, 563]
+	557 is now being served for 3 minutes.
+567: [557, 560, 562, 563, 567]
+	557 is now being served for 2 minutes.
+568: [557, 560, 562, 563, 567]
+	557 is now being served for 1 minutes.
+569: [560, 562, 563, 567]
+	560 is now being served for 4 minutes.
+570: [560, 562, 563, 567, 570]
+	560 is now being served for 3 minutes.
+571: [560, 562, 563, 567, 570]
+	560 is now being served for 2 minutes.
+572: [560, 562, 563, 567, 570]
+	560 is now being served for 1 minutes.
+573: [562, 563, 567, 570, 573]
+	562 is now being served for 7 minutes.
+574: [562, 563, 567, 570, 573]
+	562 is now being served for 6 minutes.
+575: [562, 563, 567, 570, 573]
+	562 is now being served for 5 minutes.
+576: [562, 563, 567, 570, 573]
+	562 is now being served for 4 minutes.
+577: [562, 563, 567, 570, 573, 577]
+	562 is now being served for 3 minutes.
+578: [562, 563, 567, 570, 573, 577]
+	562 is now being served for 2 minutes.
+579: [562, 563, 567, 570, 573, 577]
+	562 is now being served for 1 minutes.
+580: [563, 567, 570, 573, 577]
+	563 is now being served for 7 minutes.
+581: [563, 567, 570, 573, 577]
+	563 is now being served for 6 minutes.
+582: [563, 567, 570, 573, 577]
+	563 is now being served for 5 minutes.
+583: [563, 567, 570, 573, 577]
+	563 is now being served for 4 minutes.
+584: [563, 567, 570, 573, 577]
+	563 is now being served for 3 minutes.
+585: [563, 567, 570, 573, 577, 585]
+	563 is now being served for 2 minutes.
+586: [563, 567, 570, 573, 577, 585]
+	563 is now being served for 1 minutes.
+587: [567, 570, 573, 577, 585]
+	567 is now being served for 2 minutes.
+588: [567, 570, 573, 577, 585, 588]
+	567 is now being served for 1 minutes.
+589: [570, 573, 577, 585, 588]
+	570 is now being served for 3 minutes.
+590: [570, 573, 577, 585, 588, 590]
+	570 is now being served for 2 minutes.
+591: [570, 573, 577, 585, 588, 590]
+	570 is now being served for 1 minutes.
+592: [573, 577, 585, 588, 590]
+	573 is now being served for 4 minutes.
+593: [573, 577, 585, 588, 590]
+	573 is now being served for 3 minutes.
+594: [573, 577, 585, 588, 590]
+	573 is now being served for 2 minutes.
+595: [573, 577, 585, 588, 590]
+	573 is now being served for 1 minutes.
+596: [577, 585, 588, 590]
+	577 is now being served for 7 minutes.
+597: [577, 585, 588, 590]
+	577 is now being served for 6 minutes.
+598: [577, 585, 588, 590]
+	577 is now being served for 5 minutes.
+599: [577, 585, 588, 590]
+	577 is now being served for 4 minutes.
+600: [577, 585, 588, 590, 600]
+	577 is now being served for 3 minutes.
+601: [577, 585, 588, 590, 600]
+	577 is now being served for 2 minutes.
+602: [577, 585, 588, 590, 600]
+	577 is now being served for 1 minutes.
+603: [585, 588, 590, 600, 603]
+	585 is now being served for 2 minutes.
+604: [585, 588, 590, 600, 603, 604]
+	585 is now being served for 1 minutes.
+605: [588, 590, 600, 603, 604]
+	588 is now being served for 7 minutes.
+606: [588, 590, 600, 603, 604]
+	588 is now being served for 6 minutes.
+607: [588, 590, 600, 603, 604]
+	588 is now being served for 5 minutes.
+608: [588, 590, 600, 603, 604]
+	588 is now being served for 4 minutes.
+609: [588, 590, 600, 603, 604]
+	588 is now being served for 3 minutes.
+610: [588, 590, 600, 603, 604]
+	588 is now being served for 2 minutes.
+611: [588, 590, 600, 603, 604]
+	588 is now being served for 1 minutes.
+612: [590, 600, 603, 604]
+	590 is now being served for 3 minutes.
+613: [590, 600, 603, 604]
+	590 is now being served for 2 minutes.
+614: [590, 600, 603, 604]
+	590 is now being served for 1 minutes.
+615: [600, 603, 604, 615]
+	600 is now being served for 6 minutes.
+616: [600, 603, 604, 615, 616]
+	600 is now being served for 5 minutes.
+617: [600, 603, 604, 615, 616]
+	600 is now being served for 4 minutes.
+618: [600, 603, 604, 615, 616]
+	600 is now being served for 3 minutes.
+619: [600, 603, 604, 615, 616]
+	600 is now being served for 2 minutes.
+620: [600, 603, 604, 615, 616, 620]
+	600 is now being served for 1 minutes.
+621: [603, 604, 615, 616, 620]
+	603 is now being served for 7 minutes.
+622: [603, 604, 615, 616, 620]
+	603 is now being served for 6 minutes.
+623: [603, 604, 615, 616, 620]
+	603 is now being served for 5 minutes.
+624: [603, 604, 615, 616, 620]
+	603 is now being served for 4 minutes.
+625: [603, 604, 615, 616, 620]
+	603 is now being served for 3 minutes.
+626: [603, 604, 615, 616, 620]
+	603 is now being served for 2 minutes.
+627: [603, 604, 615, 616, 620, 627]
+	603 is now being served for 1 minutes.
+628: [604, 615, 616, 620, 627]
+	604 is now being served for 3 minutes.
+629: [604, 615, 616, 620, 627]
+	604 is now being served for 2 minutes.
+630: [604, 615, 616, 620, 627]
+	604 is now being served for 1 minutes.
+631: [615, 616, 620, 627]
+	615 is now being served for 6 minutes.
+632: [615, 616, 620, 627]
+	615 is now being served for 5 minutes.
+633: [615, 616, 620, 627, 633]
+	615 is now being served for 4 minutes.
+634: [615, 616, 620, 627, 633, 634]
+	615 is now being served for 3 minutes.
+635: [615, 616, 620, 627, 633, 634]
+	615 is now being served for 2 minutes.
+636: [615, 616, 620, 627, 633, 634]
+	615 is now being served for 1 minutes.
+637: [616, 620, 627, 633, 634]
+	616 is now being served for 5 minutes.
+638: [616, 620, 627, 633, 634]
+	616 is now being served for 4 minutes.
+639: [616, 620, 627, 633, 634]
+	616 is now being served for 3 minutes.
+640: [616, 620, 627, 633, 634]
+	616 is now being served for 2 minutes.
+641: [616, 620, 627, 633, 634]
+	616 is now being served for 1 minutes.
+642: [620, 627, 633, 634, 642]
+	620 is now being served for 6 minutes.
+643: [620, 627, 633, 634, 642]
+	620 is now being served for 5 minutes.
+644: [620, 627, 633, 634, 642]
+	620 is now being served for 4 minutes.
+645: [620, 627, 633, 634, 642]
+	620 is now being served for 3 minutes.
+646: [620, 627, 633, 634, 642]
+	620 is now being served for 2 minutes.
+647: [620, 627, 633, 634, 642]
+	620 is now being served for 1 minutes.
+648: [627, 633, 634, 642, 648]
+	627 is now being served for 4 minutes.
+649: [627, 633, 634, 642, 648]
+	627 is now being served for 3 minutes.
+650: [627, 633, 634, 642, 648]
+	627 is now being served for 2 minutes.
+651: [627, 633, 634, 642, 648, 651]
+	627 is now being served for 1 minutes.
+652: [633, 634, 642, 648, 651]
+	633 is now being served for 4 minutes.
+653: [633, 634, 642, 648, 651]
+	633 is now being served for 3 minutes.
+654: [633, 634, 642, 648, 651, 654]
+	633 is now being served for 2 minutes.
+655: [633, 634, 642, 648, 651, 654]
+	633 is now being served for 1 minutes.
+656: [634, 642, 648, 651, 654, 656]
+	634 is now being served for 7 minutes.
+657: [634, 642, 648, 651, 654, 656]
+	634 is now being served for 6 minutes.
+658: [634, 642, 648, 651, 654, 656, 658]
+	634 is now being served for 5 minutes.
+659: [634, 642, 648, 651, 654, 656, 658]
+	634 is now being served for 4 minutes.
+660: [634, 642, 648, 651, 654, 656, 658]
+	634 is now being served for 3 minutes.
+661: [634, 642, 648, 651, 654, 656, 658]
+	634 is now being served for 2 minutes.
+662: [634, 642, 648, 651, 654, 656, 658]
+	634 is now being served for 1 minutes.
+663: [642, 648, 651, 654, 656, 658, 663]
+	642 is now being served for 5 minutes.
+664: [642, 648, 651, 654, 656, 658, 663]
+	642 is now being served for 4 minutes.
+665: [642, 648, 651, 654, 656, 658, 663]
+	642 is now being served for 3 minutes.
+666: [642, 648, 651, 654, 656, 658, 663, 666]
+	642 is now being served for 2 minutes.
+667: [642, 648, 651, 654, 656, 658, 663, 666]
+	642 is now being served for 1 minutes.
+668: [648, 651, 654, 656, 658, 663, 666]
+	648 is now being served for 7 minutes.
+669: [648, 651, 654, 656, 658, 663, 666]
+	648 is now being served for 6 minutes.
+670: [648, 651, 654, 656, 658, 663, 666]
+	648 is now being served for 5 minutes.
+671: [648, 651, 654, 656, 658, 663, 666]
+	648 is now being served for 4 minutes.
+672: [648, 651, 654, 656, 658, 663, 666]
+	648 is now being served for 3 minutes.
+673: [648, 651, 654, 656, 658, 663, 666, 673]
+	648 is now being served for 2 minutes.
+674: [648, 651, 654, 656, 658, 663, 666, 673, 674]
+	648 is now being served for 1 minutes.
+675: [651, 654, 656, 658, 663, 666, 673, 674, 675]
+	651 is now being served for 3 minutes.
+676: [651, 654, 656, 658, 663, 666, 673, 674, 675]
+	651 is now being served for 2 minutes.
+677: [651, 654, 656, 658, 663, 666, 673, 674, 675]
+	651 is now being served for 1 minutes.
+678: [654, 656, 658, 663, 666, 673, 674, 675]
+	654 is now being served for 3 minutes.
+679: [654, 656, 658, 663, 666, 673, 674, 675]
+	654 is now being served for 2 minutes.
+680: [654, 656, 658, 663, 666, 673, 674, 675]
+	654 is now being served for 1 minutes.
+681: [656, 658, 663, 666, 673, 674, 675]
+	656 is now being served for 6 minutes.
+682: [656, 658, 663, 666, 673, 674, 675]
+	656 is now being served for 5 minutes.
+683: [656, 658, 663, 666, 673, 674, 675, 683]
+	656 is now being served for 4 minutes.
+684: [656, 658, 663, 666, 673, 674, 675, 683, 684]
+	656 is now being served for 3 minutes.
+685: [656, 658, 663, 666, 673, 674, 675, 683, 684]
+	656 is now being served for 2 minutes.
+686: [656, 658, 663, 666, 673, 674, 675, 683, 684]
+	656 is now being served for 1 minutes.
+687: [658, 663, 666, 673, 674, 675, 683, 684]
+	658 is now being served for 3 minutes.
+688: [658, 663, 666, 673, 674, 675, 683, 684, 688]
+	658 is now being served for 2 minutes.
+689: [658, 663, 666, 673, 674, 675, 683, 684, 688]
+	658 is now being served for 1 minutes.
+690: [663, 666, 673, 674, 675, 683, 684, 688]
+	663 is now being served for 7 minutes.
+691: [663, 666, 673, 674, 675, 683, 684, 688]
+	663 is now being served for 6 minutes.
+692: [663, 666, 673, 674, 675, 683, 684, 688]
+	663 is now being served for 5 minutes.
+693: [663, 666, 673, 674, 675, 683, 684, 688]
+	663 is now being served for 4 minutes.
+694: [663, 666, 673, 674, 675, 683, 684, 688]
+	663 is now being served for 3 minutes.
+695: [663, 666, 673, 674, 675, 683, 684, 688, 695]
+	663 is now being served for 2 minutes.
+696: [663, 666, 673, 674, 675, 683, 684, 688, 695]
+	663 is now being served for 1 minutes.
+697: [666, 673, 674, 675, 683, 684, 688, 695]
+	666 is now being served for 3 minutes.
+698: [666, 673, 674, 675, 683, 684, 688, 695]
+	666 is now being served for 2 minutes.
+699: [666, 673, 674, 675, 683, 684, 688, 695, 699]
+	666 is now being served for 1 minutes.
+700: [673, 674, 675, 683, 684, 688, 695, 699]
+	673 is now being served for 4 minutes.
+701: [673, 674, 675, 683, 684, 688, 695, 699]
+	673 is now being served for 3 minutes.
+702: [673, 674, 675, 683, 684, 688, 695, 699]
+	673 is now being served for 2 minutes.
+703: [673, 674, 675, 683, 684, 688, 695, 699]
+	673 is now being served for 1 minutes.
+704: [674, 675, 683, 684, 688, 695, 699]
+	674 is now being served for 2 minutes.
+705: [674, 675, 683, 684, 688, 695, 699, 705]
+	674 is now being served for 1 minutes.
+706: [675, 683, 684, 688, 695, 699, 705]
+	675 is now being served for 2 minutes.
+707: [675, 683, 684, 688, 695, 699, 705]
+	675 is now being served for 1 minutes.
+708: [683, 684, 688, 695, 699, 705]
+	683 is now being served for 5 minutes.
+709: [683, 684, 688, 695, 699, 705, 709]
+	683 is now being served for 4 minutes.
+710: [683, 684, 688, 695, 699, 705, 709]
+	683 is now being served for 3 minutes.
+711: [683, 684, 688, 695, 699, 705, 709]
+	683 is now being served for 2 minutes.
+712: [683, 684, 688, 695, 699, 705, 709]
+	683 is now being served for 1 minutes.
+713: [684, 688, 695, 699, 705, 709]
+	684 is now being served for 5 minutes.
+714: [684, 688, 695, 699, 705, 709]
+	684 is now being served for 4 minutes.
+715: [684, 688, 695, 699, 705, 709, 715]
+	684 is now being served for 3 minutes.
+716: [684, 688, 695, 699, 705, 709, 715]
+	684 is now being served for 2 minutes.
+717: [684, 688, 695, 699, 705, 709, 715, 717]
+	684 is now being served for 1 minutes.
+718: [688, 695, 699, 705, 709, 715, 717]
+	688 is now being served for 3 minutes.
+719: [688, 695, 699, 705, 709, 715, 717, 719]
+	688 is now being served for 2 minutes.
+720: [688, 695, 699, 705, 709, 715, 717, 719]
+	688 is now being served for 1 minutes.
+721: [695, 699, 705, 709, 715, 717, 719, 721]
+	695 is now being served for 7 minutes.
+722: [695, 699, 705, 709, 715, 717, 719, 721]
+	695 is now being served for 6 minutes.
+723: [695, 699, 705, 709, 715, 717, 719, 721, 723]
+	695 is now being served for 5 minutes.
+724: [695, 699, 705, 709, 715, 717, 719, 721, 723]
+	695 is now being served for 4 minutes.
+725: [695, 699, 705, 709, 715, 717, 719, 721, 723]
+	695 is now being served for 3 minutes.
+726: [695, 699, 705, 709, 715, 717, 719, 721, 723]
+	695 is now being served for 2 minutes.
+727: [695, 699, 705, 709, 715, 717, 719, 721, 723]
+	695 is now being served for 1 minutes.
+728: [699, 705, 709, 715, 717, 719, 721, 723]
+	699 is now being served for 6 minutes.
+729: [699, 705, 709, 715, 717, 719, 721, 723, 729]
+	699 is now being served for 5 minutes.
+730: [699, 705, 709, 715, 717, 719, 721, 723, 729]
+	699 is now being served for 4 minutes.
+731: [699, 705, 709, 715, 717, 719, 721, 723, 729, 731]
+	699 is now being served for 3 minutes.
+732: [699, 705, 709, 715, 717, 719, 721, 723, 729, 731]
+	699 is now being served for 2 minutes.
+733: [699, 705, 709, 715, 717, 719, 721, 723, 729, 731, 733]
+	699 is now being served for 1 minutes.
+734: [705, 709, 715, 717, 719, 721, 723, 729, 731, 733]
+	705 is now being served for 7 minutes.
+735: [705, 709, 715, 717, 719, 721, 723, 729, 731, 733, 735]
+	705 is now being served for 6 minutes.
+736: [705, 709, 715, 717, 719, 721, 723, 729, 731, 733, 735]
+	705 is now being served for 5 minutes.
+737: [705, 709, 715, 717, 719, 721, 723, 729, 731, 733, 735]
+	705 is now being served for 4 minutes.
+738: [705, 709, 715, 717, 719, 721, 723, 729, 731, 733, 735]
+	705 is now being served for 3 minutes.
+739: [705, 709, 715, 717, 719, 721, 723, 729, 731, 733, 735]
+	705 is now being served for 2 minutes.
+740: [705, 709, 715, 717, 719, 721, 723, 729, 731, 733, 735]
+	705 is now being served for 1 minutes.
+741: [709, 715, 717, 719, 721, 723, 729, 731, 733, 735]
+	709 is now being served for 5 minutes.
+742: [709, 715, 717, 719, 721, 723, 729, 731, 733, 735]
+	709 is now being served for 4 minutes.
+743: [709, 715, 717, 719, 721, 723, 729, 731, 733, 735]
+	709 is now being served for 3 minutes.
+744: [709, 715, 717, 719, 721, 723, 729, 731, 733, 735]
+	709 is now being served for 2 minutes.
+745: [709, 715, 717, 719, 721, 723, 729, 731, 733, 735]
+	709 is now being served for 1 minutes.
+746: [715, 717, 719, 721, 723, 729, 731, 733, 735]
+	715 is now being served for 2 minutes.
+747: [715, 717, 719, 721, 723, 729, 731, 733, 735]
+	715 is now being served for 1 minutes.
+748: [717, 719, 721, 723, 729, 731, 733, 735]
+	717 is now being served for 4 minutes.
+749: [717, 719, 721, 723, 729, 731, 733, 735]
+	717 is now being served for 3 minutes.
+750: [717, 719, 721, 723, 729, 731, 733, 735]
+	717 is now being served for 2 minutes.
+751: [717, 719, 721, 723, 729, 731, 733, 735, 751]
+	717 is now being served for 1 minutes.
+752: [719, 721, 723, 729, 731, 733, 735, 751]
+	719 is now being served for 7 minutes.
+753: [719, 721, 723, 729, 731, 733, 735, 751]
+	719 is now being served for 6 minutes.
+754: [719, 721, 723, 729, 731, 733, 735, 751, 754]
+	719 is now being served for 5 minutes.
+755: [719, 721, 723, 729, 731, 733, 735, 751, 754]
+	719 is now being served for 4 minutes.
+756: [719, 721, 723, 729, 731, 733, 735, 751, 754]
+	719 is now being served for 3 minutes.
+757: [719, 721, 723, 729, 731, 733, 735, 751, 754, 757]
+	719 is now being served for 2 minutes.
+758: [719, 721, 723, 729, 731, 733, 735, 751, 754, 757]
+	719 is now being served for 1 minutes.
+759: [721, 723, 729, 731, 733, 735, 751, 754, 757]
+	721 is now being served for 6 minutes.
+760: [721, 723, 729, 731, 733, 735, 751, 754, 757]
+	721 is now being served for 5 minutes.
+761: [721, 723, 729, 731, 733, 735, 751, 754, 757]
+	721 is now being served for 4 minutes.
+762: [721, 723, 729, 731, 733, 735, 751, 754, 757]
+	721 is now being served for 3 minutes.
+763: [721, 723, 729, 731, 733, 735, 751, 754, 757]
+	721 is now being served for 2 minutes.
+764: [721, 723, 729, 731, 733, 735, 751, 754, 757]
+	721 is now being served for 1 minutes.
+765: [723, 729, 731, 733, 735, 751, 754, 757]
+	723 is now being served for 6 minutes.
+766: [723, 729, 731, 733, 735, 751, 754, 757]
+	723 is now being served for 5 minutes.
+767: [723, 729, 731, 733, 735, 751, 754, 757]
+	723 is now being served for 4 minutes.
+768: [723, 729, 731, 733, 735, 751, 754, 757]
+	723 is now being served for 3 minutes.
+769: [723, 729, 731, 733, 735, 751, 754, 757]
+	723 is now being served for 2 minutes.
+770: [723, 729, 731, 733, 735, 751, 754, 757]
+	723 is now being served for 1 minutes.
+771: [729, 731, 733, 735, 751, 754, 757]
+	729 is now being served for 5 minutes.
+772: [729, 731, 733, 735, 751, 754, 757]
+	729 is now being served for 4 minutes.
+773: [729, 731, 733, 735, 751, 754, 757]
+	729 is now being served for 3 minutes.
+774: [729, 731, 733, 735, 751, 754, 757]
+	729 is now being served for 2 minutes.
+775: [729, 731, 733, 735, 751, 754, 757]
+	729 is now being served for 1 minutes.
+776: [731, 733, 735, 751, 754, 757]
+	731 is now being served for 3 minutes.
+777: [731, 733, 735, 751, 754, 757]
+	731 is now being served for 2 minutes.
+778: [731, 733, 735, 751, 754, 757]
+	731 is now being served for 1 minutes.
+779: [733, 735, 751, 754, 757]
+	733 is now being served for 5 minutes.
+780: [733, 735, 751, 754, 757, 780]
+	733 is now being served for 4 minutes.
+781: [733, 735, 751, 754, 757, 780]
+	733 is now being served for 3 minutes.
+782: [733, 735, 751, 754, 757, 780]
+	733 is now being served for 2 minutes.
+783: [733, 735, 751, 754, 757, 780]
+	733 is now being served for 1 minutes.
+784: [735, 751, 754, 757, 780]
+	735 is now being served for 6 minutes.
+785: [735, 751, 754, 757, 780]
+	735 is now being served for 5 minutes.
+786: [735, 751, 754, 757, 780]
+	735 is now being served for 4 minutes.
+787: [735, 751, 754, 757, 780]
+	735 is now being served for 3 minutes.
+788: [735, 751, 754, 757, 780]
+	735 is now being served for 2 minutes.
+789: [735, 751, 754, 757, 780]
+	735 is now being served for 1 minutes.
+790: [751, 754, 757, 780]
+	751 is now being served for 2 minutes.
+791: [751, 754, 757, 780]
+	751 is now being served for 1 minutes.
+792: [754, 757, 780]
+	754 is now being served for 2 minutes.
+793: [754, 757, 780, 793]
+	754 is now being served for 1 minutes.
+794: [757, 780, 793]
+	757 is now being served for 5 minutes.
+795: [757, 780, 793, 795]
+	757 is now being served for 4 minutes.
+796: [757, 780, 793, 795]
+	757 is now being served for 3 minutes.
+797: [757, 780, 793, 795]
+	757 is now being served for 2 minutes.
+798: [757, 780, 793, 795]
+	757 is now being served for 1 minutes.
+799: [780, 793, 795]
+	780 is now being served for 4 minutes.
+800: [780, 793, 795, 800]
+	780 is now being served for 3 minutes.
+801: [780, 793, 795, 800]
+	780 is now being served for 2 minutes.
+802: [780, 793, 795, 800, 802]
+	780 is now being served for 1 minutes.
+803: [793, 795, 800, 802]
+	793 is now being served for 5 minutes.
+804: [793, 795, 800, 802, 804]
+	793 is now being served for 4 minutes.
+805: [793, 795, 800, 802, 804]
+	793 is now being served for 3 minutes.
+806: [793, 795, 800, 802, 804]
+	793 is now being served for 2 minutes.
+807: [793, 795, 800, 802, 804]
+	793 is now being served for 1 minutes.
+808: [795, 800, 802, 804]
+	795 is now being served for 2 minutes.
+809: [795, 800, 802, 804, 809]
+	795 is now being served for 1 minutes.
+810: [800, 802, 804, 809]
+	800 is now being served for 5 minutes.
+811: [800, 802, 804, 809]
+	800 is now being served for 4 minutes.
+812: [800, 802, 804, 809]
+	800 is now being served for 3 minutes.
+813: [800, 802, 804, 809]
+	800 is now being served for 2 minutes.
+814: [800, 802, 804, 809]
+	800 is now being served for 1 minutes.
+815: [802, 804, 809]
+	802 is now being served for 5 minutes.
+816: [802, 804, 809]
+	802 is now being served for 4 minutes.
+817: [802, 804, 809]
+	802 is now being served for 3 minutes.
+818: [802, 804, 809]
+	802 is now being served for 2 minutes.
+819: [802, 804, 809]
+	802 is now being served for 1 minutes.
+820: [804, 809]
+	804 is now being served for 2 minutes.
+821: [804, 809]
+	804 is now being served for 1 minutes.
+822: [809]
+	809 is now being served for 3 minutes.
+823: [809]
+	809 is now being served for 2 minutes.
+824: [809]
+	809 is now being served for 1 minutes.
+825: []
+826: []
+827: []
+828: []
+829: []
+830: []
+831: []
+832: []
+833: []
+834: []
+835: []
+836: []
+837: []
+838: []
+839: []
+840: [840]
+	840 is now being served for 2 minutes.
+841: [840]
+	840 is now being served for 1 minutes.
+842: []
+843: []
+844: [844]
+	844 is now being served for 5 minutes.
+845: [844]
+	844 is now being served for 4 minutes.
+846: [844, 846]
+	844 is now being served for 3 minutes.
+847: [844, 846]
+	844 is now being served for 2 minutes.
+848: [844, 846]
+	844 is now being served for 1 minutes.
+849: [846]
+	846 is now being served for 4 minutes.
+850: [846]
+	846 is now being served for 3 minutes.
+851: [846]
+	846 is now being served for 2 minutes.
+852: [846]
+	846 is now being served for 1 minutes.
+853: []
+854: []
+855: [855]
+	855 is now being served for 6 minutes.
+856: [855]
+	855 is now being served for 5 minutes.
+857: [855, 857]
+	855 is now being served for 4 minutes.
+858: [855, 857]
+	855 is now being served for 3 minutes.
+859: [855, 857]
+	855 is now being served for 2 minutes.
+860: [855, 857]
+	855 is now being served for 1 minutes.
+861: [857]
+	857 is now being served for 4 minutes.
+862: [857, 862]
+	857 is now being served for 3 minutes.
+863: [857, 862]
+	857 is now being served for 2 minutes.
+864: [857, 862]
+	857 is now being served for 1 minutes.
+865: [862]
+	862 is now being served for 3 minutes.
+866: [862]
+	862 is now being served for 2 minutes.
+867: [862]
+	862 is now being served for 1 minutes.
+868: []
+869: []
+870: [870]
+	870 is now being served for 4 minutes.
+871: [870]
+	870 is now being served for 3 minutes.
+872: [870]
+	870 is now being served for 2 minutes.
+873: [870]
+	870 is now being served for 1 minutes.
+874: [874]
+	874 is now being served for 5 minutes.
+875: [874]
+	874 is now being served for 4 minutes.
+876: [874]
+	874 is now being served for 3 minutes.
+877: [874]
+	874 is now being served for 2 minutes.
+878: [874]
+	874 is now being served for 1 minutes.
+879: []
+880: [880]
+	880 is now being served for 3 minutes.
+881: [880]
+	880 is now being served for 2 minutes.
+882: [880]
+	880 is now being served for 1 minutes.
+883: []
+884: [884]
+	884 is now being served for 7 minutes.
+885: [884]
+	884 is now being served for 6 minutes.
+886: [884]
+	884 is now being served for 5 minutes.
+887: [884]
+	884 is now being served for 4 minutes.
+888: [884, 888]
+	884 is now being served for 3 minutes.
+889: [884, 888]
+	884 is now being served for 2 minutes.
+890: [884, 888]
+	884 is now being served for 1 minutes.
+891: [888]
+	888 is now being served for 3 minutes.
+892: [888]
+	888 is now being served for 2 minutes.
+893: [888, 893]
+	888 is now being served for 1 minutes.
+894: [893]
+	893 is now being served for 6 minutes.
+895: [893]
+	893 is now being served for 5 minutes.
+896: [893]
+	893 is now being served for 4 minutes.
+897: [893]
+	893 is now being served for 3 minutes.
+898: [893]
+	893 is now being served for 2 minutes.
+899: [893]
+	893 is now being served for 1 minutes.
+900: []
+901: [901]
+	901 is now being served for 4 minutes.
+902: [901]
+	901 is now being served for 3 minutes.
+903: [901]
+	901 is now being served for 2 minutes.
+904: [901]
+	901 is now being served for 1 minutes.
+905: []
+906: []
+907: []
+908: []
+909: []
+910: [910]
+	910 is now being served for 3 minutes.
+911: [910, 911]
+	910 is now being served for 2 minutes.
+912: [910, 911]
+	910 is now being served for 1 minutes.
+913: [911]
+	911 is now being served for 6 minutes.
+914: [911]
+	911 is now being served for 5 minutes.
+915: [911]
+	911 is now being served for 4 minutes.
+916: [911, 916]
+	911 is now being served for 3 minutes.
+917: [911, 916]
+	911 is now being served for 2 minutes.
+918: [911, 916]
+	911 is now being served for 1 minutes.
+919: [916]
+	916 is now being served for 6 minutes.
+920: [916, 920]
+	916 is now being served for 5 minutes.
+921: [916, 920]
+	916 is now being served for 4 minutes.
+922: [916, 920]
+	916 is now being served for 3 minutes.
+923: [916, 920]
+	916 is now being served for 2 minutes.
+924: [916, 920, 924]
+	916 is now being served for 1 minutes.
+925: [920, 924]
+	920 is now being served for 7 minutes.
+926: [920, 924, 926]
+	920 is now being served for 6 minutes.
+927: [920, 924, 926]
+	920 is now being served for 5 minutes.
+928: [920, 924, 926]
+	920 is now being served for 4 minutes.
+929: [920, 924, 926]
+	920 is now being served for 3 minutes.
+930: [920, 924, 926, 930]
+	920 is now being served for 2 minutes.
+931: [920, 924, 926, 930]
+	920 is now being served for 1 minutes.
+932: [924, 926, 930]
+	924 is now being served for 4 minutes.
+933: [924, 926, 930]
+	924 is now being served for 3 minutes.
+934: [924, 926, 930]
+	924 is now being served for 2 minutes.
+935: [924, 926, 930]
+	924 is now being served for 1 minutes.
+936: [926, 930, 936]
+	926 is now being served for 5 minutes.
+937: [926, 930, 936]
+	926 is now being served for 4 minutes.
+938: [926, 930, 936, 938]
+	926 is now being served for 3 minutes.
+939: [926, 930, 936, 938]
+	926 is now being served for 2 minutes.
+940: [926, 930, 936, 938]
+	926 is now being served for 1 minutes.
+941: [930, 936, 938]
+	930 is now being served for 4 minutes.
+942: [930, 936, 938]
+	930 is now being served for 3 minutes.
+943: [930, 936, 938]
+	930 is now being served for 2 minutes.
+944: [930, 936, 938]
+	930 is now being served for 1 minutes.
+945: [936, 938]
+	936 is now being served for 4 minutes.
+946: [936, 938]
+	936 is now being served for 3 minutes.
+947: [936, 938]
+	936 is now being served for 2 minutes.
+948: [936, 938, 948]
+	936 is now being served for 1 minutes.
+949: [938, 948]
+	938 is now being served for 5 minutes.
+950: [938, 948]
+	938 is now being served for 4 minutes.
+951: [938, 948]
+	938 is now being served for 3 minutes.
+952: [938, 948, 952]
+	938 is now being served for 2 minutes.
+953: [938, 948, 952]
+	938 is now being served for 1 minutes.
+954: [948, 952]
+	948 is now being served for 2 minutes.
+955: [948, 952]
+	948 is now being served for 1 minutes.
+956: [952]
+	952 is now being served for 3 minutes.
+957: [952]
+	952 is now being served for 2 minutes.
+958: [952]
+	952 is now being served for 1 minutes.
+959: []
+960: []
+961: []
+962: [962]
+	962 is now being served for 5 minutes.
+963: [962]
+	962 is now being served for 4 minutes.
+964: [962]
+	962 is now being served for 3 minutes.
+965: [962]
+	962 is now being served for 2 minutes.
+966: [962, 966]
+	962 is now being served for 1 minutes.
+967: [966]
+	966 is now being served for 4 minutes.
+968: [966, 968]
+	966 is now being served for 3 minutes.
+969: [966, 968]
+	966 is now being served for 2 minutes.
+970: [966, 968]
+	966 is now being served for 1 minutes.
+971: [968]
+	968 is now being served for 6 minutes.
+972: [968]
+	968 is now being served for 5 minutes.
+973: [968]
+	968 is now being served for 4 minutes.
+974: [968]
+	968 is now being served for 3 minutes.
+975: [968, 975]
+	968 is now being served for 2 minutes.
+976: [968, 975]
+	968 is now being served for 1 minutes.
+977: [975, 977]
+	975 is now being served for 2 minutes.
+978: [975, 977]
+	975 is now being served for 1 minutes.
+979: [977]
+	977 is now being served for 6 minutes.
+980: [977, 980]
+	977 is now being served for 5 minutes.
+981: [977, 980, 981]
+	977 is now being served for 4 minutes.
+982: [977, 980, 981]
+	977 is now being served for 3 minutes.
+983: [977, 980, 981]
+	977 is now being served for 2 minutes.
+984: [977, 980, 981]
+	977 is now being served for 1 minutes.
+985: [980, 981]
+	980 is now being served for 6 minutes.
+986: [980, 981]
+	980 is now being served for 5 minutes.
+987: [980, 981, 987]
+	980 is now being served for 4 minutes.
+988: [980, 981, 987]
+	980 is now being served for 3 minutes.
+989: [980, 981, 987]
+	980 is now being served for 2 minutes.
+990: [980, 981, 987]
+	980 is now being served for 1 minutes.
+991: [981, 987]
+	981 is now being served for 4 minutes.
+992: [981, 987]
+	981 is now being served for 3 minutes.
+993: [981, 987, 993]
+	981 is now being served for 2 minutes.
+994: [981, 987, 993]
+	981 is now being served for 1 minutes.
+995: [987, 993]
+	987 is now being served for 2 minutes.
+996: [987, 993]
+	987 is now being served for 1 minutes.
+997: [993]
+	993 is now being served for 5 minutes.
+998: [993]
+	993 is now being served for 4 minutes.
+999: [993]
+	993 is now being served for 3 minutes.
+1000: [993]
+	993 is now being served for 2 minutes.
+1001: [993]
+	993 is now being served for 1 minutes.
+1002: []
+1003: [1003]
+	1003 is now being served for 4 minutes.
+1004: [1003]
+	1003 is now being served for 3 minutes.
+1005: [1003]
+	1003 is now being served for 2 minutes.
+1006: [1003]
+	1003 is now being served for 1 minutes.
+1007: [1007]
+	1007 is now being served for 2 minutes.
+1008: [1007, 1008]
+	1007 is now being served for 1 minutes.
+1009: [1008, 1009]
+	1008 is now being served for 4 minutes.
+1010: [1008, 1009]
+	1008 is now being served for 3 minutes.
+1011: [1008, 1009]
+	1008 is now being served for 2 minutes.
+1012: [1008, 1009]
+	1008 is now being served for 1 minutes.
+1013: [1009]
+	1009 is now being served for 6 minutes.
+1014: [1009]
+	1009 is now being served for 5 minutes.
+1015: [1009, 1015]
+	1009 is now being served for 4 minutes.
+1016: [1009, 1015]
+	1009 is now being served for 3 minutes.
+1017: [1009, 1015]
+	1009 is now being served for 2 minutes.
+1018: [1009, 1015, 1018]
+	1009 is now being served for 1 minutes.
+1019: [1015, 1018]
+	1015 is now being served for 4 minutes.
+1020: [1015, 1018]
+	1015 is now being served for 3 minutes.
+1021: [1015, 1018]
+	1015 is now being served for 2 minutes.
+1022: [1015, 1018, 1022]
+	1015 is now being served for 1 minutes.
+1023: [1018, 1022, 1023]
+	1018 is now being served for 5 minutes.
+1024: [1018, 1022, 1023]
+	1018 is now being served for 4 minutes.
+1025: [1018, 1022, 1023, 1025]
+	1018 is now being served for 3 minutes.
+1026: [1018, 1022, 1023, 1025]
+	1018 is now being served for 2 minutes.
+1027: [1018, 1022, 1023, 1025]
+	1018 is now being served for 1 minutes.
+1028: [1022, 1023, 1025]
+	1022 is now being served for 5 minutes.
+1029: [1022, 1023, 1025, 1029]
+	1022 is now being served for 4 minutes.
+1030: [1022, 1023, 1025, 1029]
+	1022 is now being served for 3 minutes.
+1031: [1022, 1023, 1025, 1029]
+	1022 is now being served for 2 minutes.
+1032: [1022, 1023, 1025, 1029]
+	1022 is now being served for 1 minutes.
+1033: [1023, 1025, 1029]
+	1023 is now being served for 3 minutes.
+1034: [1023, 1025, 1029]
+	1023 is now being served for 2 minutes.
+1035: [1023, 1025, 1029]
+	1023 is now being served for 1 minutes.
+1036: [1025, 1029]
+	1025 is now being served for 4 minutes.
+1037: [1025, 1029]
+	1025 is now being served for 3 minutes.
+1038: [1025, 1029, 1038]
+	1025 is now being served for 2 minutes.
+1039: [1025, 1029, 1038, 1039]
+	1025 is now being served for 1 minutes.
+1040: [1029, 1038, 1039]
+	1029 is now being served for 2 minutes.
+1041: [1029, 1038, 1039, 1041]
+	1029 is now being served for 1 minutes.
+1042: [1038, 1039, 1041, 1042]
+	1038 is now being served for 3 minutes.
+1043: [1038, 1039, 1041, 1042, 1043]
+	1038 is now being served for 2 minutes.
+1044: [1038, 1039, 1041, 1042, 1043]
+	1038 is now being served for 1 minutes.
+1045: [1039, 1041, 1042, 1043]
+	1039 is now being served for 6 minutes.
+1046: [1039, 1041, 1042, 1043]
+	1039 is now being served for 5 minutes.
+1047: [1039, 1041, 1042, 1043]
+	1039 is now being served for 4 minutes.
+1048: [1039, 1041, 1042, 1043]
+	1039 is now being served for 3 minutes.
+1049: [1039, 1041, 1042, 1043]
+	1039 is now being served for 2 minutes.
+1050: [1039, 1041, 1042, 1043]
+	1039 is now being served for 1 minutes.
+1051: [1041, 1042, 1043]
+	1041 is now being served for 2 minutes.
+1052: [1041, 1042, 1043]
+	1041 is now being served for 1 minutes.
+1053: [1042, 1043]
+	1042 is now being served for 3 minutes.
+1054: [1042, 1043]
+	1042 is now being served for 2 minutes.
+1055: [1042, 1043]
+	1042 is now being served for 1 minutes.
+1056: [1043]
+	1043 is now being served for 2 minutes.
+1057: [1043]
+	1043 is now being served for 1 minutes.
+1058: []
+1059: []
+1060: []
+1061: []
+1062: [1062]
+	1062 is now being served for 2 minutes.
+1063: [1062]
+	1062 is now being served for 1 minutes.
+1064: []
+1065: []
+1066: []
+1067: []
+1068: []
+1069: [1069]
+	1069 is now being served for 3 minutes.
+1070: [1069]
+	1069 is now being served for 2 minutes.
+1071: [1069]
+	1069 is now being served for 1 minutes.
+1072: []
+1073: []
+1074: []
+1075: []
+1076: []
+1077: []
+1078: []
+1079: []
